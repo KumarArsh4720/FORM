@@ -1,0 +1,35 @@
+#FORM{border: 2px solid black;
+    background-color: #fe0de2;
+    padding: 10px;
+    text-align: center;
+}
+
+#NOTE{
+    border: 2px solid black;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+#BUTTON{
+    background-color: #0dd6fe;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#BUTTON:hover{
+    background-color: #f90000;
+    color: black;
+}
+
+.ENDING{
+    border: 2px solid black;
+    background-color: #0dfe2e;
+    text-align: center;
+    padding: 10px 200PX;
+}
